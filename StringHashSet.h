@@ -23,7 +23,7 @@ private:
 
   /* Return the index/hash code of the given word, using the asciiToInt function
      given in the slide */
-  unsigned int hash_code (const string & word) const {
+  static unsigned int hash_code (const string & word)  {
 	//Todo:
   }
 
