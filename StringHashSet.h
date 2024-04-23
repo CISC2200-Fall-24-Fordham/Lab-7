@@ -60,7 +60,7 @@ public:
 	cout <<"Number of buckets:" <<M<<endl;
 	cout <<"Number of elements:" <<N<<endl;
 
-	for (int i=0;i<M-1;i++){
+	for (int i=0;i<M;i++){
 		//display i-th bucket
 		cout <<"Bucket " << i <<"stores:";
 		for (auto s:H[i])
