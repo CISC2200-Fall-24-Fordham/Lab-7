@@ -43,6 +43,6 @@ Please implement the following member functions in the **StringHashSet.h**.
 
 ## Submission 
 
-Submit your **StringHashSet.h** file at the following link by TBA, midnight (11:59pm).
+Submit your **StringHashSet.h** file at the following link by 4/30, Tuesday, midnight (11:59pm).
 
-Link TBA 
+[Lab7 submission link ](https://storm.cis.fordham.edu:8443/web/project/1771)
