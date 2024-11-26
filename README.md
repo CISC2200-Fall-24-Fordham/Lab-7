@@ -46,4 +46,4 @@ its index) to the new table; and then delete the old table.
 Submit your **StringHashSet.h** file at the following link by 12/02,
 Monday, midnight (11:59pm).
 
-[Lab 7 submission link](https://storm.cis.fordham.edu:8443/web/project/1952)
+[Lab 7 submission link](https://storm.cis.fordham.edu:8443/web/project/1955)
